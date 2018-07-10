@@ -1,5 +1,5 @@
 # shopify-api-integration
-API2Cart provides unified API to integrate with Shopify and other shopping carts & marketplaces, including Amazon, eBay, Woocommerce, Opencart, Shopify.
+API2Cart provides unified API to integrate with Shopify and other shopping carts & marketplaces, including Amazon, eBay, Woocommerce, Opencart, PrestaShop.
 
 <b>With API2Cart shopping platform
 integration is easy.</b>
